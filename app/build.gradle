@@ -74,4 +74,15 @@ dependencies {
     //material drawer
     implementation 'co.zsmb:materialdrawer-kt:1.3.4'
 
+    //material bottom sheet
+    compile 'com.flipboard:bottomsheet-core:1.5.3'
+    compile 'com.flipboard:bottomsheet-commons:1.5.3' // optional
+
+    //picasso
+    implementation 'com.squareup.picasso:picasso:2.71828'
+
+
+
+
+
 }
