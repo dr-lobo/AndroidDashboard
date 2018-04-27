@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">StackTemplate</string>
+    <string name="title_activity_feature">FeatureA</string>
+    <string name="title_activity_feature_b">FeatureB</string>
 </resources>
